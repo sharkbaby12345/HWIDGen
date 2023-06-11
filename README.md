@@ -18,8 +18,3 @@ HWIDGEN是一款由國外Nsane論壇會員s1ave77製作的Windows 10數字權利
 5.還有如果需要可用的手動方法激活
 
 6.仍然無法獲得激活，請檢查hwidgen生成的日誌。
-
-
-工具發布原貼網址:
-
-http://www.nsaneforums.com/topic/312871-windows-10-digital-license-hwid-generation-without-kms-or-predecessor-installupgrade/
